@@ -1,4 +1,4 @@
-# Individual Project - Henry Countries
+# Proyecto Individual Wonderland
 
 <p align="left">
   <img height="200" src="./countries.png" />
@@ -19,22 +19,30 @@ desarrollé una aplicación en la cual se puede ver información de  distintos p
 - [ ] Express
 - [ ] Sequelize - Postgres
 
+# Link de Github:
+https://github.com/alen-machado/Wonderland/
+
+# Link deploy:
+https://wonderland-7p1v.vercel.app/
+
 
 __Pagina inicial__: 
-
-![image](https://user-images.githubusercontent.com/86084294/195243342-81cc1f82-8dde-4dbc-afe0-8a154f393c1b.png)
-
+![image](https://user-images.githubusercontent.com/86084294/217908834-6b2a6e68-a12d-4368-81e6-5ccbdb4a07cf.png)
 
 __Ruta principal__: 
+![image](https://user-images.githubusercontent.com/86084294/217908952-74ec88a0-b032-4b57-8f98-91bc2980f12a.png)
 
-![image](https://user-images.githubusercontent.com/86084294/195243598-555bcc5c-e7f1-4217-891a-a738da951db1.png)
-![image](https://user-images.githubusercontent.com/86084294/195243669-2ab3d1cd-ca29-4a35-94ae-906ff558222a.png)
-
+![image](https://user-images.githubusercontent.com/86084294/217909044-fbd49350-0be6-4f8c-9d28-a508385c6486.png)
 
 __Ruta de detalle de país__: 
-
-![image](https://user-images.githubusercontent.com/86084294/195243815-fcacd9e8-6889-4570-9b42-0d3bc3b750e0.png)
+![image](https://user-images.githubusercontent.com/86084294/217909188-4b4536c2-81b4-4edf-add9-5f6d898b01ca.png)
 
 
 __Ruta de creación de actividad turística__:
-![image](https://user-images.githubusercontent.com/86084294/195244325-cd8a897e-b0b7-4433-99e4-b0045f5507c9.png)
+![image](https://user-images.githubusercontent.com/86084294/217909320-9370f264-3b19-4ff2-a947-14c10a000295.png)
+
+
+__Ruta Sobre Mi__:
+![image](https://user-images.githubusercontent.com/86084294/217909472-8aed0795-3ac6-4921-914f-01db1028a5a0.png)
+
+
