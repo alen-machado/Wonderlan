@@ -1,0 +1,77 @@
+.conteiner{
+  color: white;
+  text-align: center;
+  border: 10px solid white;
+  margin: 30px 400px 30px 400px;
+  /* background-color: gainsboro; */
+  border-radius: 15px;
+  box-shadow: 10px 10px 10px white;
+   
+}
+.img {
+ border: 10px solid black;
+ border-radius: 15px;
+}
+
+.actividades {
+ border: 10px solid white;;
+ border-radius: 15px;
+ box-shadow: 10px 10px 10px 10px rgb(150, 142, 142);
+ /* margin: 5px 100px 5px 100px; */
+}
+
+.actBtn {
+ border-radius: 100px;
+ cursor: pointer;
+ background-color: transparent;
+}
+
+.title {
+  text-decoration: underline white;
+}
+
+.header{
+
+}
+
+.crearAct{
+  background-color: transparent;
+  color:white;
+  font-size:1.8rem;
+  position: absolute;
+  right:4rem;
+  top:1.3rem;
+  transition:0.3s;
+}
+
+.crearAct:hover{
+  transform:scale(1.1);
+  transition:0.3s;
+  cursor:pointer;
+}
+
+
+
+.flechaBack{
+  background-color: transparent;
+  border:none;
+  height: 5rem;
+  width: 5rem;
+  color:white;
+  border-radius: 9999px;
+  font-size:2.9rem;
+  transition:0.3s;
+}
+
+.flechaBack:hover{
+  background-color: transparent;
+  border:none;
+  height: 5rem;
+  width: 5rem;
+  color:white;
+  border-radius: 9999px;
+  font-size:3.5rem;
+  cursor:pointer;
+  transition:0.3s;
+  
+}
